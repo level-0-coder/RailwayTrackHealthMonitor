@@ -1,0 +1,5 @@
+segmentation-models-pytorch
+opencv-python
+pillow
+streamlit
+albumentations
